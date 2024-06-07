@@ -4,8 +4,11 @@ Developed a Web Application where you can connect with people share your thought
 
 
 FrontEnd: #html5 #css3 #javascript
+
 BackEnd: #php
+
 Web Framework: #bootstrap4
+
 DataBase: #mysql
 
 #Features :
